@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://amywxd.site:3090">
-    <img src="https://raw.githubusercontent.com/BlingCc233/go_sudoku/main/assests/logo.png" width="200" height="200" alt="Cc-bot">
+    <img src="https://raw.githubusercontent.com/BlingCc233/go_sudoku/refs/heads/main/assets/logo.png" width="200" height="200" alt="Cc-bot">
   </a>
 </p>
 
